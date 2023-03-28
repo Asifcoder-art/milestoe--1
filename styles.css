@@ -1,0 +1,39 @@
+/* input{
+  margin: 10px;
+}
+
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+}
+
+form{
+  margin-top: 50px;
+}
+
+button{
+  margin-top: 20px;
+  margin-left: 100px;
+background-color: #008000;
+color: #fff;
+padding: 10px 20px;
+border-radius: 20px;
+}
+
+p{
+  position: relative;
+  top: 140px;
+  right: 120px;
+} */
+
+.highlight {
+  background-color: yellow;
+}
+
+img{
+  width: 400px;
+  height: 400px;
+}
